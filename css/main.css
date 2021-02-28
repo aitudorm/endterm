@@ -17,13 +17,13 @@ body{
    width: 107%;
 }
 
-@media(max-width: 450px){
+/* @media(max-width: 450px){
     .container_banner1 img{
         width: 400px;
         overflow-x: hidden;
     }
 }
-
+ */
 /* @media(max-width: 450px){
     .banner img{
         width: 400px;
