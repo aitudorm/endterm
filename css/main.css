@@ -18,12 +18,19 @@ body{
 }
 
 @media(max-width: 450px){
-    .banner img{
+    .container_banner1 img{
         width: 400px;
         overflow-x: hidden;
     }
 }
 
+/* @media(max-width: 450px){
+    .banner img{
+        width: 400px;
+        overflow-x: hidden;
+    }
+}
+ */
 /* @media(max-width: 450px){
     .banner{
         object-fit: cover;
