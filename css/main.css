@@ -17,14 +17,20 @@ body{
    width: 107%;
 }
 
-
 @media(max-width: 450px){
-    .banner{
-        object-fit: cover;
-        width: 250%;
+    .banner img{
+        width: 400px;
         overflow-x: hidden;
     }
 }
+
+/* @media(max-width: 450px){
+    .banner{
+        object-fit: cover;
+        width: 250%;
+        
+    }
+} */
 
 .btn-outline-dark:hover{
     background: #a08972;
